@@ -1,0 +1,15 @@
+{
+  "name": "base_node_project_structure",
+  "version": "1.0.0",
+  "description": "basic starter boiler plate code",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "http-status-codes": "^2.2.0",
+    "winston": "^3.8.2"
+  }
+}
